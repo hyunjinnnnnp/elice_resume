@@ -40,6 +40,10 @@ article#profile h1 {
   margin: 20px;
   font-size: 48px;
 }
+article#profile h2 {
+  font-family: "Rubik Puddles", cursive;
+  margin-bottom: 20px;
+}
 .imgContainer {
   overflow: hidden;
 }
